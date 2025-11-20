@@ -1,7 +1,7 @@
 # Hi I'm Sahana, and I'm interested in leveraging data to solve real-world problems and build meaningful, user-focused solutions
 
 ### Education
-Data Science & Information Sciences, B.S
+B.S. Data Science & Information Sciences with a Business Minor — University of Illinois Urbana–Champaign
 
 ### Work Experience
 Technology Consultant @ Public Consulting Group 
