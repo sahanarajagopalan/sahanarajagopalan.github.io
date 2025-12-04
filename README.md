@@ -1,14 +1,14 @@
 # 👋 Hello there! I'm Sahana 
 ### ✨ About Me
-💡 I'm a junior at the University of Illinois Urbana-Champaign studying Information Science & Data Science with a Business minor.
+ I'm a junior at the University of Illinois Urbana-Champaign studying Information Science & Data Science with a Business minor.
 
-📊 I’m passionate about product management, data science, and fintech, and I love building tools that make technology more intuitive and accessible.
+ I’m passionate about product management, data science, and fintech, and I love building tools that make technology more intuitive and accessible.
 
-📚 I’ve worked across analytics, product research, and consulting through Illinois Business Consulting and as VP of Illinois Data Science Club, leading projects, workshops, and community initiatives.
+I’ve worked across analytics, product research, and consulting through Illinois Business Consulting and as VP of Illinois Data Science Club, leading projects, workshops, and community initiatives.
 
-🚀 My interests span ML, NLP, financial technology, and user-centric system design — especially products that help people make better decisions.
+ My interests span ML, NLP, financial technology, and user-centric system design — especially products that help people make better decisions.
 
-🎸 Outside of school, I enjoy fashion, coffee shops, travel planning, and building fun side projects.
+ Outside of school, I enjoy fashion, coffee shops, travel planning, and building fun side projects.
 
 ### 🧠 What I’m Currently Learning
 Markets & financial systems — building a stronger foundation in how products, data, and incentives shape real-world markets.
@@ -20,3 +20,22 @@ Core data science skills — model tuning, evaluation metrics, feature engineeri
 AI product thinking — how to translate user problems into data-driven features and design responsible, useful AI systems.
 
 Data tooling — improving my Python, SQL, and dashboarding skills to build cleaner, more scalable projects.
+
+### 🛠 Tech Stack
+Languages: Python • SQL
+
+Data & ML: pandas • numpy • scikit-learn • matplotlib • Jupyter Notebook
+
+Machine Learning: Predictive Modeling • Classification • Regression • Model Evaluation
+
+Tools: VS Code • Excel • Tableau • Figma
+
+Concepts: Data Cleaning • Feature Engineering • Cross-Validation • Prompt Engineering (beginner)
+
+### 📬 Contact
+
+Email: sraja26@illinois.edu
+
+LinkedIn: https://www.linkedin.com/in/sahana-rajagopalan/
+
+
