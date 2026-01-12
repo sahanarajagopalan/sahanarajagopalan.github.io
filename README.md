@@ -28,7 +28,7 @@ Data & ML: pandas • numpy • scikit-learn • matplotlib • Jupyter Notebook
 
 Machine Learning: Predictive Modeling • Classification • Regression • Model Evaluation
 
-Tools: VS Code • Excel • Tableau • Figma
+Tools: VS Code • Excel • Tableau • PowerBI • Figma
 
 Concepts: Data Cleaning • Feature Engineering • Cross-Validation • Prompt Engineering (beginner)
 
